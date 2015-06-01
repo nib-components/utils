@@ -1,0 +1,9 @@
+{
+  "name": "@nib-components/utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/utils.git"
+  }
+}
